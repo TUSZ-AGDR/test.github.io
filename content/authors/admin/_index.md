@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Qiang Li
+title: Nelson Bighetti
 
 # Full Name (for SEO)
-first_name: Qiang
-last_name: Li
+first_name: Nelson
+last_name: Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor and header of AG
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Dep. Computer science and technology
+  - name: Stanford University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include underwater robot, collaborative robots, humanoid robots.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Tactile Robotics
-  - Robotic skill learning
-  - Human-Robot-Interaction
-  - Robotic application in IoT
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Pattern Recognition and Intelligent Systems
-      institution: Graduate University of Chinese Academy of Sciences
-      year: 2010
-    - course: BSc in Mechatronics
-      institution: Beijing Institute of Technology
-      year: 2001
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -42,13 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:liqiang1@sztu.edu.cn'
+    link: 'mailto:test@example.org'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=oN0V_uQAAAAJ&hl=en
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/liqiang1980
+    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,14 +69,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
 ---
 
-Dr. Qiang Li a full professor at Shenzhen Technology University (SZTU) in China. Before joining the SZTU, he was a Principle Investigator at the Center for Cognitive Interaction Technology (CITEC) in Bielefeld University. He is also the President of Association of Chinese Computer Scientists in Germany.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-From 2019 to 2020, he was a Principal Scientific Researcher and Project Leader at RoboticsX Lab. From 2012 to 2018, he was a Senior scientific researcher at Neuroinformatik group, Bielefeld University. From 2009 to 2012, he was a postdoc at CorLab, Bielefeld University. Dr. Qiang Li hold a PhD from Shenyang Institute of Automation, Chinese Academy of Sciences (2010). 
-
-He was Involved in European project-TACHAND and also many German national projects—FAMULA, REBA, REBA+. and authored/co-authored over 50 peer-reviewed publications in the field of robotic control, grasping and manipulation area and 1 edited book. Currently Dr. Qiang Li serve as Associate Editor in International Journal of Humanoid Robotics (Robotics), Indutrial robot and Complex & Intelligent Systems (AI) and Associated Editor for top level robotics conference—ICRA, IROS, Humanoids.
-
-He is leading the Association of Chinese Computer Scientists in Germany and developed its whole scientific organization structure and construct the Experts Committees of intelligent robots, big data and AI, Industrial IoT, autonomous driving and Brain Neurorecognition. In 2016, I founded the Sino-Germany Symposium on Intelligent Robots and developed it as a
-serial robotics conference (2016,2019,2020,2021) for the researchers and engineers in the whole Europe. In 2018, he was awarded “ 10 leading Chinese Talents on Science and Technology in Europe” by Federation of Chinese Professional Associations in Europe.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
