@@ -1,5 +1,5 @@
 ---
-title: AGDR PI - Prof. Qiang Li is invited to attend the Innovative union of Intelligent vechile in Anhui
+title: Prof. Qiang Li is invited to attend the Innovative union of Intelligent vechile in Anhui
 date: 2023-11-26
 image:
   focal_point: 'top'
